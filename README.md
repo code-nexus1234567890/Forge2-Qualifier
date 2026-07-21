@@ -97,5 +97,3 @@ Make sure you have installed:
 
 ## Live Deployments
 
--   **Frontend (Vercel/Netlify)**: [Live Board URL](https://forge2-qualifier-swastik.vercel.app)
--   **Backend API (Render/Railway)**: [Live Laravel API](https://forge2-qualifier-swastik.render.com/api)
